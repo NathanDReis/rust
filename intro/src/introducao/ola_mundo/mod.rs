@@ -24,9 +24,9 @@ pub fn executar() {
             2 => impressao::exemplo(),
             3 => impressao::exemplo_formatada(),
             4 => impressao::exemplo_formatada_depurar(),
-            5 => impressao::exemplo(),
-            6 => impressao::exemplo(),
-            7 => impressao::exemplo(),
+            5 => impressao::exemplo_formatada_exibir(),
+            6 => impressao::exemplo_formatada_testcase_lista(),
+            7 => impressao::exemplo_formatada_formatacao(),
             _ => break,
         }
 
