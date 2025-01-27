@@ -37,7 +37,7 @@ pub fn executar_rust() {
        limpar_tela();
        match selecionado {
            1 => ola_mundo::executar(),
-           2 => primitivos::exemplo(),
+           2 => primitivos::executar(),
            3 => println!("Exemplo"),
            4 => println!("Exemplo"),
            5 => println!("Exemplo"),
