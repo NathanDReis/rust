@@ -1,30 +1,32 @@
-/home/nathan-reis/Documentos/GitHub/NathanDReis/rust/intro/target/debug/deps/intro-8135beabcc355d43: src/main.rs src/utils/mod.rs src/utils/terminal.rs src/introducao/mod.rs src/introducao/ola_mundo/mod.rs src/introducao/ola_mundo/comentario.rs src/introducao/ola_mundo/impressao.rs src/fundamentos/mod.rs src/fundamentos/primeiro.rs src/fundamentos/variaveis.rs src/fundamentos/operadores.rs src/tipos/mod.rs src/tipos/basicos.rs src/tipos/custom.rs src/tipos/sequecias.rs src/controle/mod.rs src/controle/condicionais.rs src/controle/loops.rs src/funcoes/mod.rs src/funcoes/fns.rs src/funcoes/lambda.rs src/ownership/mod.rs src/ownership/escopo.rs src/ownership/mecanismo.rs src/ownership/referencia.rs src/ownership/slice.rs
+/home/nathan-reis/Documentos/GitHub/NathanDReis/rust/intro/target/debug/deps/intro-8135beabcc355d43: src/main.rs src/utils/mod.rs src/utils/terminal.rs src/rust/mod.rs src/rust/ola_mundo/mod.rs src/rust/ola_mundo/comentario.rs src/rust/ola_mundo/impressao.rs src/rust/primitivos.rs src/coder/mod.rs src/coder/fundamentos/mod.rs src/coder/fundamentos/primeiro.rs src/coder/fundamentos/variaveis.rs src/coder/fundamentos/operadores.rs src/coder/tipos/mod.rs src/coder/tipos/basicos.rs src/coder/tipos/custom.rs src/coder/tipos/sequecias.rs src/coder/controle/mod.rs src/coder/controle/condicionais.rs src/coder/controle/loops.rs src/coder/funcoes/mod.rs src/coder/funcoes/fns.rs src/coder/funcoes/lambda.rs src/coder/ownership/mod.rs src/coder/ownership/escopo.rs src/coder/ownership/mecanismo.rs src/coder/ownership/referencia.rs src/coder/ownership/slice.rs
 
-/home/nathan-reis/Documentos/GitHub/NathanDReis/rust/intro/target/debug/deps/intro-8135beabcc355d43.d: src/main.rs src/utils/mod.rs src/utils/terminal.rs src/introducao/mod.rs src/introducao/ola_mundo/mod.rs src/introducao/ola_mundo/comentario.rs src/introducao/ola_mundo/impressao.rs src/fundamentos/mod.rs src/fundamentos/primeiro.rs src/fundamentos/variaveis.rs src/fundamentos/operadores.rs src/tipos/mod.rs src/tipos/basicos.rs src/tipos/custom.rs src/tipos/sequecias.rs src/controle/mod.rs src/controle/condicionais.rs src/controle/loops.rs src/funcoes/mod.rs src/funcoes/fns.rs src/funcoes/lambda.rs src/ownership/mod.rs src/ownership/escopo.rs src/ownership/mecanismo.rs src/ownership/referencia.rs src/ownership/slice.rs
+/home/nathan-reis/Documentos/GitHub/NathanDReis/rust/intro/target/debug/deps/intro-8135beabcc355d43.d: src/main.rs src/utils/mod.rs src/utils/terminal.rs src/rust/mod.rs src/rust/ola_mundo/mod.rs src/rust/ola_mundo/comentario.rs src/rust/ola_mundo/impressao.rs src/rust/primitivos.rs src/coder/mod.rs src/coder/fundamentos/mod.rs src/coder/fundamentos/primeiro.rs src/coder/fundamentos/variaveis.rs src/coder/fundamentos/operadores.rs src/coder/tipos/mod.rs src/coder/tipos/basicos.rs src/coder/tipos/custom.rs src/coder/tipos/sequecias.rs src/coder/controle/mod.rs src/coder/controle/condicionais.rs src/coder/controle/loops.rs src/coder/funcoes/mod.rs src/coder/funcoes/fns.rs src/coder/funcoes/lambda.rs src/coder/ownership/mod.rs src/coder/ownership/escopo.rs src/coder/ownership/mecanismo.rs src/coder/ownership/referencia.rs src/coder/ownership/slice.rs
 
 src/main.rs:
 src/utils/mod.rs:
 src/utils/terminal.rs:
-src/introducao/mod.rs:
-src/introducao/ola_mundo/mod.rs:
-src/introducao/ola_mundo/comentario.rs:
-src/introducao/ola_mundo/impressao.rs:
-src/fundamentos/mod.rs:
-src/fundamentos/primeiro.rs:
-src/fundamentos/variaveis.rs:
-src/fundamentos/operadores.rs:
-src/tipos/mod.rs:
-src/tipos/basicos.rs:
-src/tipos/custom.rs:
-src/tipos/sequecias.rs:
-src/controle/mod.rs:
-src/controle/condicionais.rs:
-src/controle/loops.rs:
-src/funcoes/mod.rs:
-src/funcoes/fns.rs:
-src/funcoes/lambda.rs:
-src/ownership/mod.rs:
-src/ownership/escopo.rs:
-src/ownership/mecanismo.rs:
-src/ownership/referencia.rs:
-src/ownership/slice.rs:
+src/rust/mod.rs:
+src/rust/ola_mundo/mod.rs:
+src/rust/ola_mundo/comentario.rs:
+src/rust/ola_mundo/impressao.rs:
+src/rust/primitivos.rs:
+src/coder/mod.rs:
+src/coder/fundamentos/mod.rs:
+src/coder/fundamentos/primeiro.rs:
+src/coder/fundamentos/variaveis.rs:
+src/coder/fundamentos/operadores.rs:
+src/coder/tipos/mod.rs:
+src/coder/tipos/basicos.rs:
+src/coder/tipos/custom.rs:
+src/coder/tipos/sequecias.rs:
+src/coder/controle/mod.rs:
+src/coder/controle/condicionais.rs:
+src/coder/controle/loops.rs:
+src/coder/funcoes/mod.rs:
+src/coder/funcoes/fns.rs:
+src/coder/funcoes/lambda.rs:
+src/coder/ownership/mod.rs:
+src/coder/ownership/escopo.rs:
+src/coder/ownership/mecanismo.rs:
+src/coder/ownership/referencia.rs:
+src/coder/ownership/slice.rs:
